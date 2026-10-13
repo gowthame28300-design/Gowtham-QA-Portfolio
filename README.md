@@ -16,28 +16,7 @@ I am developing my skills in manual testing, test automation, and software quali
 * **Version Control:** Git and GitHub
 * **Additional Tools:** Docker
 
-## Projects
 
-### 1. OrangeHRM Automation Framework
-
-A Selenium automation project using Java, TestNG, Maven, and the Page Object Model.
-
-**Features:**
-
-* Login and logout testing
-* Employee creation and search
-* Data-driven testing utilities
-* Screenshot capture
-* Extent Reports
-* Cross-browser test execution
-
-### 2. Manual Testing Project
-
-Practical software testing documentation covering test scenarios, test cases, defect reporting, and test execution.
-
-### 3. Excel Test Reporting
-
-A spreadsheet-based project for organizing test cases, tracking defects, and summarizing test execution results.
 
 ## Career Goal
 
@@ -63,12 +42,16 @@ An automation testing framework built to test OrangeHRM application features.
 
 **Source Code:** [OrangeHRM Hybrid Framework](https://github.com/gowthame28300-design/OrangeHRM-Hybrid-Framework)
 
-### 2. Manual Testing
+### 2. Manual Testing Project
 
-Coming soon.
+**Status:** Planned
+
+Test scenarios, test cases, bug reports, and test execution documentation.
 
 ### 3. Excel Test Reporting
 
-Coming soon.
+**Status:** Planned
+
+Excel-based test tracking, defect management, and test execution summaries.
 
 
